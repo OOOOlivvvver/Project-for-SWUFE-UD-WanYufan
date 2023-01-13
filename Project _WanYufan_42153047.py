@@ -1,3 +1,5 @@
+""" This is the project 2 created by Wan Yufan """
+
 class Node:
     def __init__(self, key = None, next=None):
         self.key = key
