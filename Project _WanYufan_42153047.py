@@ -90,6 +90,7 @@ if __name__ == "__main__":
     print(end_time - start_time)
 
 
+#use the graphviz to visualize the tree
 import graphviz
 
 def visualize_heap(pq):
